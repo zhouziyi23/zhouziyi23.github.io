@@ -1,6 +1,9 @@
 # Bioinformatics
-
-[TOC]
+---
+layout: post
+title: Bioinformatics
+date: 2024-9-18 15:32 +0800
+---
 
 ## 1) WEEK 1 Class Notes
 
