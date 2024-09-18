@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Bioinformatics
-tags: mathjax
-math: true
-date: 20204-9-18 15:32 +0800
+date: 20204-9-18 22:00 +0800
 ---
-Welcome to Not Pure Poole! This is an example post to show the layout.
+Bioinformatics practice
 ## 1) WEEK 1 Class Notes
 
 ### Introduction
