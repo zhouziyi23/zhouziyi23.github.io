@@ -27,7 +27,7 @@ date: 2024-09-19 00:00 +0800
 
      - Sequences - DNA/RNA Sequence
 
-       	- Revolution of Biology: Sequencing Technologies (Human Genome Project)
+       - Revolution of Biology: Sequencing Technologies (Human Genome Project)
 
        - Features: complex, diverse and numerous 
 
@@ -59,7 +59,7 @@ date: 2024-09-19 00:00 +0800
          1. Number Sorting Algorithm 
          2. Dynamic Programming Algorithm
 
-     - ==Model vs Algorithm==
+     - *Model vs Algorithm*
 
        - Model: formula + parameters
 
