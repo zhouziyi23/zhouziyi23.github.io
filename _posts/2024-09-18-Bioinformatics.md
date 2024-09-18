@@ -21,7 +21,7 @@ Bioinformatics practice
 
      - Sequences - DNA/RNA Sequence
 
-       	- Revolution of Biology: Sequencing Technologies (Human Genome Project)
+       - Revolution of Biology: Sequencing Technologies (Human Genome Project)
 
        - Features: complex, diverse and numerous 
 
