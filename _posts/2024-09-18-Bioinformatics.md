@@ -53,7 +53,7 @@ Bioinformatics practice
          1. Number Sorting Algorithm 
          2. Dynamic Programming Algorithm
 
-     - ==Model vs Algorithm==
+     - *Model vs Algorithm*
 
        - Model: formula + parameters
 
