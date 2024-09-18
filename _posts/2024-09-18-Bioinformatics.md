@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bioinformatics
+tags: mathjax
+math: true
 date: 20204-9-18 15:32 +0800
 ---
 
