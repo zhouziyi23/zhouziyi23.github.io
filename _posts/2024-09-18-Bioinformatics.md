@@ -1,6 +1,7 @@
 # Bioinformatics
 
-[TOC]
+
+
 
 ## 1) WEEK 1 Class Notes
 
