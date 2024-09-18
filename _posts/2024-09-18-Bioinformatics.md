@@ -5,8 +5,6 @@ tags: mathjax
 math: true
 date: 20204-9-18 15:32 +0800
 ---
-
-
 ## 1) WEEK 1 Class Notes
 
 ### Introduction
